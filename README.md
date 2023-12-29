@@ -1,4 +1,4 @@
-# Make CapsLock Great Again!!!
+# CapsLock Enhancement Win V1 2023
 > Make CapsLock Great and Useful As It Should!!!
 
 This project will transform the CapsLock key into a Hyper(✱) that can improve work and personal productivity thanks to its best ergonomic position next to the home row.
@@ -6,10 +6,11 @@ One thing that annoyed me as someone who switches between Windows and MacOS is t
 This project will create a configuration that I can have almost identical experiences using MacOS and Windows, regardless of whether I use my small mechanical keyboard or the built-in keyboard on Macbook. 
 ## Highlights
 - Transform `Capslock` into a powerful `Hyper` (✱)
+- CapsLock is remapped to `Esc` when pressed  
 - Quickly launch apps, useful navigation, window control, shortcuts, etc.
 - Speed up productivity, high-frequency move stay in the home row.
-- Work with existing modifiers: Ctrl, Shift, Win, and Alt work normally to avoid conflicts.
-- Same finger position as Mac
+- Work with all existing modifiers: Ctrl, Shift, Win, and Alt. 
+- Same finger position as Mac device.
 
 ## Requirements
 - A mechanical keyboard:  to keep the finger position the same when using MacOS or Windows, the `Alt` and `Win` keys are swapped to replicate the `Opt` and `Cmd` keys on Mac, which I find more ergonomic when typing. For this matter, you will need a programmable keyboard to remap the keys. 
@@ -27,13 +28,13 @@ Below is the projected keyboard layout:
 
 ![remapped layout](docs/img/win-layout.png)
 ### MacOS
-Visit [Vonng/capslock](https://github.com/Vonng/Capslock) who has done excellent work for for MacOS. 
+Visit [Vonng/capslock](https://github.com/Vonng/Capslock) who has done excellent work for MacOS. 
 
 My own version for MacOS will be updated here.
 
 ## Installation
 ### Windows
 - Install [AutoHotkey V2](https://www.autohotkey.com/)
-- Download the `capslock.ahk` to your Windows PC
+- Download the `capslock.ahk` to your Windows PC or you can clone this repo if your are familiar with git  
 - Double-click to run it
 - Adjust the script to your own preference. 
